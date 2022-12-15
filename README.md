@@ -18,7 +18,7 @@ Two on-premise servers that carry out a combination of functions. One server is 
 ---
 Akana (no date) ‘Cloud APIs’. Available at: https://www.akana.com/resources/cloud-apis (Accessed: 7 December 2022)
 
-Cloudian (no date). Available at: Hybrid Cloud Architecture: Selecting the Best of Both Worlds (cloudian.com) (Accessed: 1 December 2022)
+Cloudian (no date). Available at: https://cloudian.com/guides/hybrid-it/hybrid-cloud-architecture/ (Accessed: 1 December 2022)
 
 Fahmideh M., Daneshgar F., Beydoun G. and Rabhi F. (2017) ‘Challenges in migrating legacy software systems to the cloud—an empirical study’, *Information Systems* [online]. 67, pp.1-4. Available at: https://www.researchgate.net/publication/315836686_Challenges_in_migrating_legacy_software_systems_to_the_cloud-an_empirical_study (Accessed: 7 December 2022)
 
